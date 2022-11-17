@@ -1,7 +1,7 @@
 
-  # Test
+  # Super Awesome Read Me Generator
   ## Description
-  This is a test to ensure that this read me generator works
+  This project creates readmes for you!
 
   ## Table of Contents
   * [Installation](#installation)
@@ -11,19 +11,19 @@
   
   
   ## Installation
-  You need to run the following command to install dependencies: Inquirer as well as make sure to run npm install
+  You need to run the following command to install dependencies: Inquirer and npm install
 
   ## Usage
 
-  This application was made for This project was created to test the functionality of my readme generator
+  This application was made for This project was created to make it easier to create readmes!
 
   ## License
 
-  The protected license for this project is MIT 
+  The protected license for this project is MIT
 
   ## Tests
 
-  You need to run the following command to run tests: node index.js within the terminal
+  You need to run the following command to run tests: node index.js
 
   ## Questions 
 
