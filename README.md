@@ -2,6 +2,7 @@
 I created a README Generator
 
 ## Video of the functionality 
+https://youtu.be/g_sJAzSO5es
 
 
 ## Installation 
